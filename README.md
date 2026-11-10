@@ -50,7 +50,3 @@ Every commit to `main` goes live, so test changes before committing. If the calc
 **Reuse.** You may use, modify and adapt this code for your own work, provided Te Ara Ahunga Ora Retirement Commission is acknowledged as the source. While all care has been taken in developing this code, Te Ara Ahunga Ora gives no warranty that it is error-free and will not be liable for any loss or damage suffered as a result of its use, either directly or indirectly.
 
 **Feedback welcome.** We welcome suggestions, feedback and corrections. Please contact office@retirement.govt.nz.
-
-## Contact
-
-office@retirement.govt.nz
