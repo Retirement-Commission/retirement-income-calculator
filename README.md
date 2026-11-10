@@ -38,6 +38,19 @@ Every commit to `main` goes live, so test changes before committing. If the calc
 - Business owner: Te Ara Ahunga Ora Retirement Commission
 - Technical owner: Te Ara Ahunga Ora Retirement Commission
 - Originally developed by Patrick Nolan.
+
+## Disclaimers and reuse
+
+**Not official advice or a policy position.** This calculator is a general information tool developed by Te Ara Ahunga Ora Retirement Commission. It lets you explore how different settings and inputs, such as contribution rates, contribution breaks, investment returns and KiwiSaver policy settings, could affect an individual's KiwiSaver balance and retirement income. It is not personalised financial advice: it does not take into account anyone's full financial situation or goals, and it is not a recommendation to take any particular action. You may want to talk to a financial adviser about your own situation. Its outputs do not represent a Te Ara Ahunga Ora policy position.
+
+**No warranty or liability.** The calculator is provided as-is and for general information only. Despite reasonable measures taken to ensure quality and accuracy, Te Ara Ahunga Ora makes no warranty or guarantee, express or implied, and accepts no legal liability or responsibility for the accuracy, correctness or completeness of the calculator or its results, or for any use made of them.
+
+**Not official statistics.** Results are illustrative estimates based on the inputs entered and the assumptions used (including investment returns, inflation and NZ Super settings as at the model date). They are not official statistics or forecasts, and actual outcomes will differ.
+
+**Reuse.** You may use, modify and adapt this code for your own work, provided Te Ara Ahunga Ora Retirement Commission is acknowledged as the source. While all care has been taken in developing this code, Te Ara Ahunga Ora gives no warranty that it is error-free and will not be liable for any loss or damage suffered as a result of its use, either directly or indirectly.
+
+**Feedback welcome.** We welcome suggestions, feedback and corrections. Please contact office@retirement.govt.nz.
+
 ## Contact
 
 office@retirement.govt.nz
