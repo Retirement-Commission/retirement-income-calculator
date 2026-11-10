@@ -4,7 +4,7 @@ An interactive calculator that projects KiwiSaver balances and retirement income
 
 Owned by Te Ara Ahunga Ora Retirement Commission.
 
-**Status:** Prototype. Results are illustrative and may change as the model is developed. This is not financial advice.
+**Status:** Prototype. Results are illustrative and may change as the model is developed. See Disclaimers and reuse below.
 
 ## Live tool
 
